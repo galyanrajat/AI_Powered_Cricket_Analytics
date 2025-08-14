@@ -1,0 +1,17 @@
+# Video Source
+video_url: "https://youtube.com/shorts/vSX3IRxGnNY"
+
+# Preprocessing
+fps: 30
+resolution: [1280, 720]
+
+# Metrics thresholds
+elbow_angle_threshold: 110
+spine_lean_threshold: 10
+head_knee_distance_threshold: 15
+
+# Paths
+output_dir: "output/"
+logs_dir: "logs/"
+models_dir: "models/"
+yolo_weights: "models/yolov8n_bat.pt"
