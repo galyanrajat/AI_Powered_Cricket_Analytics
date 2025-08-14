@@ -1,0 +1,16 @@
+{
+  "scores": {
+    "Footwork": 1.0,
+    "Head Position": 10.0,
+    "Swing Control": 10.0,
+    "Balance": 1.0,
+    "Follow-through": 6.4
+  },
+  "feedback": {
+    "Footwork": "Work on planting the front foot ~30\u00b0 open; over/under rotation is affecting stability.",
+    "Head Position": "Head stays steady over the knee \u2014 solid!",
+    "Swing Control": "Elbow extension looks controlled through impact.",
+    "Balance": "Reduce spine lean; think \u2018tall chest\u2019 to keep balance over the stance.",
+    "Follow-through": "Follow-through duration is healthy; let the bat finish high."
+  }
+}

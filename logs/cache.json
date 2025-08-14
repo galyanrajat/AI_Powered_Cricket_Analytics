@@ -1,0 +1,38 @@
+{
+  "video_downloader": {
+    "file_hash": "31c1547657e6e86883de9ab85c3a6e62",
+    "config_hash": "2fca61bfd42532ec3b590fd2e5909294"
+  },
+  "video_processor": {
+    "file_hash": "d0239bf38d5ceaf09deeccfef97bcbd1",
+    "config_hash": "09518bc5b6672267875dc35da6e817ea"
+  },
+  "pose_estimation": {
+    "file_hash": "2cde09259106eb7d31e5c5070b775c5d",
+    "config_hash": "d1ca814ed4d6a319f61b09144217a26f"
+  },
+  "metrics": {
+    "file_hash": "8a1f27f6e1e2a1062cc311929cc97fd9",
+    "config_hash": "a9b3c35697832a00d62dffd171081c8b"
+  },
+  "phase_segmentation": {
+    "file_hash": "489be6cf761af1805eabfba867465ae9",
+    "config_hash": "43feef05cef1c249fdd93d829e16f9b9"
+  },
+  "contact_detection": {
+    "file_hash": "3822ecc78b73874ad01869ebeb84243d",
+    "config_hash": "688661321388ccc316de6d502364a56e"
+  },
+  "overlay": {
+    "file_hash": "0c5ada0b30d985992a3121b24d266e65",
+    "config_hash": "c7fa14d44a9dcb9329a0ad056fe8cc9a"
+  },
+  "evaluation": {
+    "file_hash": "d8a9f195bb9127e5d786987331027c00",
+    "config_hash": "95e6d4833f12eef12a6fd8a8d2b3198b"
+  },
+  "bat_detection": {
+    "file_hash": "99888a5e044b0d8fdae9f3c085005ef7",
+    "config_hash": "e7955d7f0b34fb0d2c535a8356cb1d29"
+  }
+}

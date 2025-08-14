@@ -25,7 +25,7 @@ def run(pose_csv: Path = IN_KPTS, bat_csv: Path = IN_BATS, phases_csv: Path = IN
     step_config = {"pose": str(pose_csv), "bat": str(bat_csv), "phases": str(phases_csv)}
 
     if OUT_CONTACT.exists() and not needs_update("contact_detection", [pose_csv, bat_csv, phases_csv], step_config):
-        logger.info("🎯 Contact already computed — skipping.")
+        logger.info("Contact already computed — skipping.")
         return OUT_CONTACT
 
     if not pose_csv.exists():
